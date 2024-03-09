@@ -5,8 +5,9 @@ SPAM SMS DETECTION
 Build an AI model that can classify SMS messages as spam or
 legitimate. Use techniques like TF-IDF or word embeddings with
 classifiers like Naive Bayes, Logistic Regression, or Support Vector
-
 Machines to identify spam messages
+
+![SMS SPAM DETECTION](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-4/assets/134633289/186dbd5e-db73-4436-b468-ba54ccc3cc82)
 
 <h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨💻Author: Irfan Ullah Khan</h1>
 
